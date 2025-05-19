@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://qtrixnet.mesto.nomorepartiessbs.ru');
+  const api = new Api('https://api.qtrixnet.mesto.nomorepartiessbs.ru');
 
   export default api;
